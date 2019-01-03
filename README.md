@@ -1,5 +1,7 @@
 # Attendance-Manager
 
+Just for the sake of testing purpose
+
 This is a full fledged attendance manager app created during Avishkar 2016. The app is used the manage the attendance on the go!
 It also involves an interactive predictor which predict what your attendance would be like if you miss/attend certain number of classes.
 
